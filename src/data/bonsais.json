@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "Junípero",
+    "especie": "Juniperus",
+    "precio": 60,
+    "edad": 5,
+    "disponible": true,
+    "estado": [8]
+  },
+  {
+    "id": 2,
+    "nombre": "Ficus Retusa",
+    "especie": "Ficus microcarpa",
+    "precio": 100,
+    "edad": 10,
+    "disponible": false,
+    "estado": [8]
+  },
+  {
+    "id": 3,
+    "nombre": "Arce Japonés",
+    "especie": "Acer palmatum",
+    "precio": 70,
+    "edad": 5,
+    "disponible": true,
+    "estado": [6]
+  }
+]
