@@ -1,0 +1,3 @@
+api-bonsai.ddns.net {
+    reverse_proxy api:3000
+}
