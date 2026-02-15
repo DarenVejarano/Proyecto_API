@@ -1,6 +1,6 @@
 services:
   api:
-    image: darenvv/ifc31c-iaw-vejarano-daren:prueba
+    image: darenvv/ifc31c-iaw-vejarano-daren:vfinal
     container_name: api-bonsai
     restart: always
     networks:
