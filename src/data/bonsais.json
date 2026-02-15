@@ -6,7 +6,7 @@
     "precio": 60,
     "edad": 5,
     "disponible": true,
-    "estado": [8]
+    "estado": [7]
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "precio": 100,
     "edad": 10,
     "disponible": false,
-    "estado": [8]
+    "estado": [5]
   },
   {
     "id": 3,
@@ -24,6 +24,159 @@
     "precio": 70,
     "edad": 5,
     "disponible": true,
+    "estado": [5]
+  },
+  {
+    "id": 4,
+    "nombre": "Olmo Chino",
+    "especie": "Ulmus parvifolia",
+    "precio": 45,
+    "edad": 4,
+    "disponible": true,
+    "estado": [8]
+  },
+  {
+    "id": 5,
+    "nombre": "Pino Negro",
+    "especie": "Pinus thunbergii",
+    "precio": 250,
+    "edad": 20,
+    "disponible": false,
+    "estado": [9]
+  },
+  {
+    "id": 6,
+    "nombre": "Olivo",
+    "especie": "Olea europaea",
+    "precio": 85,
+    "edad": 12,
+    "disponible": true,
     "estado": [6]
+  },
+  {
+    "id": 7,
+    "nombre": "Manzano Silvestre",
+    "especie": "Malus halliana",
+    "precio": 120,
+    "edad": 8,
+    "disponible": true,
+    "estado": [7]
+  },
+  {
+    "id": 8,
+    "nombre": "Azalea",
+    "especie": "Rhododendron",
+    "precio": 55,
+    "edad": 6,
+    "disponible": false,
+    "estado": [4]
+  },
+  {
+    "id": 9,
+    "nombre": "Picea de Ezo",
+    "especie": "Picea glehnii",
+    "precio": 300,
+    "edad": 25,
+    "disponible": true,
+    "estado": [8]
+  },
+  {
+    "id": 10,
+    "nombre": "Granado",
+    "especie": "Punica granatum",
+    "precio": 95,
+    "edad": 15,
+    "disponible": true,
+    "estado": [9]
+  },
+  {
+    "id": 11,
+    "nombre": "Alerce Europeo",
+    "especie": "Larix decidua",
+    "precio": 135,
+    "edad": 14,
+    "disponible": true,
+    "estado": [8]
+  },
+  {
+    "id": 12,
+    "nombre": "Ginkgo Biloba",
+    "especie": "Ginkgo biloba",
+    "precio": 190,
+    "edad": 18,
+    "disponible": false,
+    "estado": [9]
+  },
+  {
+    "id": 13,
+    "nombre": "Junípero Shimpaku",
+    "especie": "Juniperus chinensis",
+    "precio": 450,
+    "edad": 35,
+    "disponible": true,
+    "estado": [10]
+  },
+  {
+    "id": 14,
+    "nombre": "Buganvilla",
+    "especie": "Bougainvillea sp.",
+    "precio": 55,
+    "edad": 7,
+    "disponible": true,
+    "estado": [6]
+  },
+  {
+    "id": 15,
+    "nombre": "Glicinia",
+    "especie": "Wisteria sinensis",
+    "precio": 210,
+    "edad": 14,
+    "disponible": false,
+    "estado": [7]
+  },
+  {
+    "id": 16,
+    "nombre": "Arce de Montpellier",
+    "especie": "Acer monspessulanum",
+    "precio": 85,
+    "edad": 11,
+    "disponible": true,
+    "estado": [8]
+  },
+  {
+    "id": 17,
+    "nombre": "Boj",
+    "especie": "Buxus sempervirens",
+    "precio": 40,
+    "edad": 9,
+    "disponible": true,
+    "estado": [5]
+  },
+  {
+    "id": 18,
+    "nombre": "Cerezo Japonés",
+    "especie": "Prunus serrulata",
+    "precio": 175,
+    "edad": 6,
+    "disponible": false,
+    "estado": [7]
+  },
+  {
+    "id": 19,
+    "nombre": "Pino Blanco Japonés",
+    "especie": "Pinus parviflora",
+    "precio": 550,
+    "edad": 50,
+    "disponible": true,
+    "estado": [9]
+  },
+  {
+    "id": 20,
+    "nombre": "Alcornoque",
+    "especie": "Quercus suber",
+    "precio": 145,
+    "edad": 16,
+    "disponible": true,
+    "estado": [8]
   }
 ]
