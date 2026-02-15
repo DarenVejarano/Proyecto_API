@@ -3,7 +3,7 @@
 This project is a REST API built with **Node.js** and **Express** designed to manage a bonsai inventory.
 
 ## JSON Structure & Choice
-I have chosen this theme because I like bonsais and it is pretty easy to track both technical and numerical data, which is ideal for this API project. 
+I have chosen this theme because I like bonsais and it is pretty easy to track both technical and numerical data, which is ideal for this API project.
 - `id`: Unique identifier for each bonsai.
 - `nombre` & `especie`: String data for identification.
 - `precio` & `edad`: Numerical values used for filtering.
@@ -23,7 +23,12 @@ To ensure **Clean Code** the project follows this structure:
 3. Start the server using `npm start`.
 4. Access the API at `http://localhost:3000/api/bonsais`.
 
-## Implemented Features
-- [x] **Task 1 & 2**: Project structure and data definition.
-- [ ] **Task 3**: Dockerization (Pending).
-- [ ] **Task 5**: Advanced filtering and Calculation logic (Pending).
+## Testing
+Commands for testing the API:
+1. Get all bonsai: http://localhost:3000/api/bonsais
+2. Get only available: http://localhost:3000/api/bonsais?disponible=true
+3. Get only non-available: http://localhost:3000/api/bonsais?disponible=false
+4. LF existing ID: http://localhost:3000/api/bonsais/1
+5. LF non-existing ID: http://localhost:3000/api/bonsais/999 ERROR 404
+6. Range filter: http://localhost:3000/api/bonsais/search/price?min=50&max=100
+7. POST METHOD: Use the file pruebaPOST.http
