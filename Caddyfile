@@ -1,3 +1,5 @@
 api-bonsai.ddns.net {
+    tls internal
     reverse_proxy api:3000
+
 }
